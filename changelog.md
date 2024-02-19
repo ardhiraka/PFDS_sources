@@ -1,9 +1,38 @@
-# Athena Search Engine Changelog
+# Athena Search Engine Changelog & Datasets
 
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## Dataset List
+
+- SMLink
+  - 
+- SAPJam
+  - AIR_IPL
+  - AJB_PBB_PBG
+  - Event Sinar Mas Land
+  - FASILITAS
+  - FORMULIR
+  - Gangguan
+  - LINGKUNGAN
+  - List Furniture, Ukur Ulang Kavling, Dimensi Kavling, Access Card
+  - Project Joint Venture (JV)
+  - RENOVASI_PERBAIKAN_PBG
+  - SALES & PROMOTION
+  - Serah Terima
+  - SMART HOME
+  - SOP
+- Research
+  - BN
+  - CR
+  - SR
+- Testing
+  - Biaya Ganti Meter Air.pdf
+  - FAQ Smart Move.pdf
+  - Jadwal & Tarif Bus Sinar Jaya Trans BSD 2022.pdf
+  - Last Call Double Dream.pdf
 
 ## Features:​
 
@@ -22,6 +51,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   Utilize Axios for making secure and efficient HTTP requests between the React frontend and FastAPI backend, ensuring seamless communication and data retrieval​
 1. JWT Authentication for Security​
 1. Mobile Responsiveness (Stand-alone Apps)​
+
+## [Alpha Release]
+
+## [0.2.1] - 2024-02-14
+
+### Added
+- Streaming Response!
+- Log all user activities to Mongo Atlas and Azure Datalake
+- Adding user feedback button and functionality
+- Adding copy button
+- Function to save log and feedback as csv to Azure Datalake
+- User initial dummy request for first time visit to improve response time
+- UserId generation and logging
+### Fixed
+- Fixing column name for database
+- Value for feedback and log: adding response time and userId
+- Fixing FaB sizing for responsiveness
+### Changed
+- Major revamp of user interface (ChatGPT look-alike), improving ux.
+- Change ip to userId
+- Revamp user interface for FaB version
+### Removed
+- 
 
 ## [Unreleased]
 
