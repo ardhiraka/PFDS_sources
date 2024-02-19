@@ -8,7 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Dataset List
 
 - SMLink
-  - 
 - SAPJam
   - AIR_IPL
   - AJB_PBB_PBG
@@ -33,6 +32,40 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - FAQ Smart Move.pdf
   - Jadwal & Tarif Bus Sinar Jaya Trans BSD 2022.pdf
   - Last Call Double Dream.pdf
+- Excluded Document (Invalid Format):
+  - Tarif Air BSD Timur Per Februari 2024
+  - Auth Policy Project Structure for Upload
+  - KF The Wealth Report
+  - CR Colliers 2022
+  - CR Colliers 2021
+  - KPI Directory Section Below
+  - Peraturan Perusahaan PT. BKS
+  - CIMB Agribusiness
+  - BN 2021 Innovative Construction
+  - BN 2021 Gen Z The World Brain
+  - BN 2021 Agritech
+  - Tarif Service IPL Kawazan Mozia
+  - Tarif Service IPL Cluster Jadeite
+  - BN 2022 Climate Change Behavior
+  - SOP Ketentuan Pemakaian Searagam
+  - SOP on the requisition and stock opname
+  - SOP TRM Tender
+  - SOP on Sales Cancellation
+  - SOP on sale of east indonesia
+  - SOP on Golf Membership
+  - SOP on External Sales Agent Commission
+  - SOP on Application of New HGB
+  - Policies and Procedures on Submission and Reimbursement
+  - SOP on Preparation and Approval of Contract Plan
+  - SOP on Internal Sales Commission
+  - SOP on Handover
+  - SOP on Evaluation of New Vendor
+  - Whistleblowing
+  - Policy on Recruitment Management
+  - Policy on Mendical Health Care
+  - Form Peminjaman Kendaraan Sinar Mas Land
+  - SOP of Notarization
+  - Newsletter Digital Hub Q4 2023
 
 ## Features:​
 
