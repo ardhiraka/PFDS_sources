@@ -5,68 +5,6 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Dataset List
-
-- SMLink
-- SAPJam
-  - AIR_IPL
-  - AJB_PBB_PBG
-  - Event Sinar Mas Land
-  - FASILITAS
-  - FORMULIR
-  - Gangguan
-  - LINGKUNGAN
-  - List Furniture, Ukur Ulang Kavling, Dimensi Kavling, Access Card
-  - Project Joint Venture (JV)
-  - RENOVASI_PERBAIKAN_PBG
-  - SALES & PROMOTION
-  - Serah Terima
-  - SMART HOME
-  - SOP
-- Research
-  - BN
-  - CR
-  - SR
-- Testing
-  - Biaya Ganti Meter Air.pdf
-  - FAQ Smart Move.pdf
-  - Jadwal & Tarif Bus Sinar Jaya Trans BSD 2022.pdf
-  - Last Call Double Dream.pdf
-- Excluded Document (Invalid Format):
-  - Tarif Air BSD Timur Per Februari 2024
-  - Auth Policy Project Structure for Upload
-  - KF The Wealth Report
-  - CR Colliers 2022
-  - CR Colliers 2021
-  - KPI Directory Section Below
-  - Peraturan Perusahaan PT. BKS
-  - CIMB Agribusiness
-  - BN 2021 Innovative Construction
-  - BN 2021 Gen Z The World Brain
-  - BN 2021 Agritech
-  - Tarif Service IPL Kawazan Mozia
-  - Tarif Service IPL Cluster Jadeite
-  - BN 2022 Climate Change Behavior
-  - SOP Ketentuan Pemakaian Searagam
-  - SOP on the requisition and stock opname
-  - SOP TRM Tender
-  - SOP on Sales Cancellation
-  - SOP on sale of east indonesia
-  - SOP on Golf Membership
-  - SOP on External Sales Agent Commission
-  - SOP on Application of New HGB
-  - Policies and Procedures on Submission and Reimbursement
-  - SOP on Preparation and Approval of Contract Plan
-  - SOP on Internal Sales Commission
-  - SOP on Handover
-  - SOP on Evaluation of New Vendor
-  - Whistleblowing
-  - Policy on Recruitment Management
-  - Policy on Mendical Health Care
-  - Form Peminjaman Kendaraan Sinar Mas Land
-  - SOP of Notarization
-  - Newsletter Digital Hub Q4 2023
-
 ## Features:​
 
 1. Conversational Search​\
@@ -86,6 +24,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 1. Mobile Responsiveness (Stand-alone Apps)​
 
 ## [Alpha Release]
+
+## [0.2.2] - 2024-03-25
+
+### Added
+- Dark Mode!
+- Perplexity Experimental UI
+- KMS
+### Fixed
+
+### Changed
+
+### Removed
 
 ## [0.2.1] - 2024-02-14
 
